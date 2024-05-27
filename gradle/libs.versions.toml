@@ -28,7 +28,7 @@ hiltWork = "1.2.0"
 javaxInject = "1"
 lottieAnimation = "6.1.0"
 
-coroutinesCore = "1.7.3"
+coroutinesCore = "1.8.0"
 
 lifeCycle = "2.7.0"
 lifeCycleViewModelKtx = "2.7.0"
@@ -46,7 +46,7 @@ sqldelight = "2.0.2"
 
 junit = "4.13.2"
 junitExt = "1.1.5"
-coroutinesTest = "1.7.3"
+coroutinesTest = "1.8.0"
 mockitoKotlin = "4.1.0"
 mockk = "1.13.5"
 runner = "1.5.2"
